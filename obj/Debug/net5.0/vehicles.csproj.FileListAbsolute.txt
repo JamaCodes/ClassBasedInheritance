@@ -1,0 +1,16 @@
+C:\Users\jamam\workspace\csharp\vehicles\obj\Debug\net5.0\vehicles.csproj.AssemblyReference.cache
+C:\Users\jamam\workspace\csharp\vehicles\obj\Debug\net5.0\vehicles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jamam\workspace\csharp\vehicles\obj\Debug\net5.0\vehicles.AssemblyInfoInputs.cache
+C:\Users\jamam\workspace\csharp\vehicles\obj\Debug\net5.0\vehicles.AssemblyInfo.cs
+C:\Users\jamam\workspace\csharp\vehicles\obj\Debug\net5.0\vehicles.csproj.CoreCompileInputs.cache
+C:\Users\jamam\workspace\csharp\vehicles\bin\Debug\net5.0\vehicles.exe
+C:\Users\jamam\workspace\csharp\vehicles\bin\Debug\net5.0\vehicles.deps.json
+C:\Users\jamam\workspace\csharp\vehicles\bin\Debug\net5.0\vehicles.runtimeconfig.json
+C:\Users\jamam\workspace\csharp\vehicles\bin\Debug\net5.0\vehicles.runtimeconfig.dev.json
+C:\Users\jamam\workspace\csharp\vehicles\bin\Debug\net5.0\vehicles.dll
+C:\Users\jamam\workspace\csharp\vehicles\bin\Debug\net5.0\ref\vehicles.dll
+C:\Users\jamam\workspace\csharp\vehicles\bin\Debug\net5.0\vehicles.pdb
+C:\Users\jamam\workspace\csharp\vehicles\obj\Debug\net5.0\vehicles.dll
+C:\Users\jamam\workspace\csharp\vehicles\obj\Debug\net5.0\ref\vehicles.dll
+C:\Users\jamam\workspace\csharp\vehicles\obj\Debug\net5.0\vehicles.pdb
+C:\Users\jamam\workspace\csharp\vehicles\obj\Debug\net5.0\vehicles.genruntimeconfig.cache
