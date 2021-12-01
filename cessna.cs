@@ -1,17 +1,15 @@
 
 
-// namespace Garage
-// {
-//     public class Cessna : Vehicle
-//     {
-        
+namespace Garage
+{
+    public class Cessna : Vehicle , IGasVeicle
+    {
+  public int CurrentTankPercentage { get; set; } = 50;
 
-      
-
-//         public override void Drive()
-//         {
-//             Console.WriteLine("Zoooooom!");
-//         }
-//     }
-// }
+    public void RefuelTank()
+    {
+        CurrentTankPercentage = 100;
+    }
+    }
+}
 

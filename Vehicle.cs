@@ -7,12 +7,6 @@ namespace Garage
         public virtual string MainColor { get; set; }
         public virtual int MaximumOccupancy { get; set; }
 
-         public virtual void RefuelTank()
-        {
-            Console.WriteLine("gass!");
-        }
-
-
         public virtual void Drive()
         {
             Console.WriteLine("Vrooom!");

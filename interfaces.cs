@@ -11,11 +11,12 @@ namespace Garage
 
     public interface IGasVeicle
     {
+        int CurrentTankPercentage {get; set;}
         void RefuelTank();
     }
 
-    public interface IFlying
-    {
-        void Fly();
-    }
+    // public interface IFlying
+    // {
+    //     void Fly();
+    // }
 }
