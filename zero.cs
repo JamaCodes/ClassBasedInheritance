@@ -1,12 +1,14 @@
-using System;
+
 namespace Garage
 {
-    public class Zero : Vehicle // Electric motorcycle
-    {
-        public double BatteryKWh { get; set; }
-        public string MainColor { get; set; }
-        public int MaximumOccupancy { get; set; }
+public class Zero : Vehicle , IElectricVehicle
+{
+    public int CurrentChargePercentage { get; set; } = 59;
 
-     
+    public void ChargeBattery()
+    {
+        CurrentChargePercentage = 100;
     }
 }
+}
+

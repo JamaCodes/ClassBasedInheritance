@@ -4,8 +4,14 @@ namespace Garage
 {
     public class Vehicle
     {
-        public string MainColor { get; set; }
-        public int MaximumOccupancy { get; set; }
+        public virtual string MainColor { get; set; }
+        public virtual int MaximumOccupancy { get; set; }
+
+         public virtual void RefuelTank()
+        {
+            Console.WriteLine("gass!");
+        }
+
 
         public virtual void Drive()
         {
