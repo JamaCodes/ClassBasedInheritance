@@ -3,10 +3,9 @@
 namespace Garage
 {
     public interface IElectricVehicle
-    {
-    int CurrentChargePercentage { get; set; }
-      public void ChargeBattery(){} 
-
+    {    
+        int CurrentChargePercentage { get; set; }
+        void ChargeBattery(){} 
     }
 
     public interface IGasVeicle
